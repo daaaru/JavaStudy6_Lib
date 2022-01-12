@@ -21,12 +21,7 @@ public class MemberData {
 	//data에 있는 문자열을 StringTokenizer로파싱해서 
 		//멤버DTO를 생성해서 멤버변수값으로 대입
 		//MemberDTO들을 ArrayList에 담아서 리턴 
-		StringTokenizer st = new StringTokenizer(this.data, ",");
-		ArrayList<MemberDTO> ar = new ArrayList<>();
-		
-		while(st.hasMoreTokens()) {
-			MemberDTO memberDTO = new MemberDTO();
-		}
+		System.out.println("MemberEx1 Branch");
 		
 		
 		
