@@ -1,4 +1,4 @@
-package com.daru.s3.ex1;
+package com.daru.s3.ex1.member;
 
 import java.util.ArrayList;
 

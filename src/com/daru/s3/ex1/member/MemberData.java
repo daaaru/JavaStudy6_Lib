@@ -1,4 +1,4 @@
-package com.daru.s3.ex1;
+package com.daru.s3.ex1.member;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -77,11 +77,7 @@ public class MemberData {
 		
 	}
 	
-	
-	
-	
-	
-	
+
 	
 	public ArrayList<MemberDTO> init(){
 	//data에 있는 문자열을 StringTokenizer로파싱해서 

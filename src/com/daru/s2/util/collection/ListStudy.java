@@ -4,6 +4,15 @@ import java.util.ArrayList;
 
 public class ListStudy {
 	
+	
+	private final int NUM = 1;
+	
+	public ArrayList<String> study5() {
+		ArrayList<String> list = new ArrayList<>();
+		list.add("1");
+		return list;
+	}
+	
 	//private final int NUM = 1; 상수
 	
 	public void study3() {
